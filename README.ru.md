@@ -16,7 +16,9 @@ RU
 И еще хочу прояснить, Я самоучка, не профессионал — просто человек, который хочет что-то создать, научиться чему-то и двигаться вперёд. Возможно, мой путь не идеален, Я делаю это не потому, что «мечтаю свернуть горы», а потому что мне нравится сам процесс. Даже если выйдет криво — ну и ладно, Я готов пробовать, ошибаться и снова пробовать.
 
 <img width="421" height="290" alt="2026-07-03_164919" src="https://github.com/user-attachments/assets/71935058-d699-4b4b-bb27-b2d60236a6c0" />
+
 EN
+
 This program is designed to optimize Windows 10/11 Pro (ORIGINAL ONLY), starting with version 22H2 and later.
 
 Network Structure System Requirements 4.8.1
