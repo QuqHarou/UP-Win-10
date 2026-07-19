@@ -32,4 +32,5 @@ The user assumes all risks associated with the use of the program, including, bu
 By using this program, you agree to the terms of this disclaimer. If you don't agree to the terms, please limit your use of the program.
 
 I also want to clarify: I'm self-taught, not a professional—just someone who wants to create something, learn something, and move forward. My path may not be perfect. I'm not doing this because I "dream of moving mountains," but because I enjoy the process itself. Even if it turns out poorly, so be it. I'm willing to try, make mistakes, and try again.
+
 <img width="403" height="280" alt="2026-07-18_185659" src="https://github.com/user-attachments/assets/c64c8483-a494-4a1d-ab36-337c88f81cce" />
